@@ -5,3 +5,5 @@
 
 /* Blend the original logo into the surrounding page color. */
 .logo{mix-blend-mode:multiply}
+
+.logo{clip-path:inset(0 0 14% 0)}
