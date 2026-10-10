@@ -2,3 +2,6 @@
 .en{display:none}html[lang=en] .en{display:inline}html[lang=en] .ne{display:none}.lang-switch{border:1px solid #c7d7ce;border-radius:25px;background:white;color:#163f3a;padding:8px 14px;cursor:pointer;font:inherit}html[lang=ne] h1{line-height:1.4;letter-spacing:0;font-size:clamp(32px,4.3vw,52px)}@media(max-width:760px){nav{gap:10px}nav a{display:none}}
 
 .doctor-credentials{margin:8px 0 14px;line-height:1.6;font-size:14px;font-weight:500}.badge{overflow-wrap:anywhere}
+
+/* Blend the original logo into the surrounding page color. */
+.logo{mix-blend-mode:multiply}
